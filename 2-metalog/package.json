@@ -1,0 +1,25 @@
+{
+  "name": "2-metalog",
+  "version": "1.0.0",
+  "requires": "true",
+  "description": "metarhia logger",
+  "main": "./main.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "dependencies": {
+    "@metarhia/common": "^1.5.0",
+    "concolor": "^0.1.12",
+    "metalog": "^1.1.0",
+    "metastreams": "^0.1.1"
+  }
+}
